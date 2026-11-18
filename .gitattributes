@@ -1,2 +1,6 @@
+*.html linguist-detectable=false
 *.html linguist-vendored
+*.tex linguist-detectable=false
 *.tex linguist-vendored
+*.bib linguist-detectable=false
+iuc-rag-chatbot/data/** linguist-vendored
